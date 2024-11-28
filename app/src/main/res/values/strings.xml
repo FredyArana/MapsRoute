@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapRutas</string>
+    <string name="api_key">AIzaSyBibbnQm5zZW-ABNo3DecclXIvL267TSKc</string>
+    <string name="route_key">5b3ce3597851110001cf62484fa66864412e423a910784da5a08fec9</string>
+</resources>
